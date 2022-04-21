@@ -81,7 +81,7 @@ def parse(input):
         raise Exception
 
 try:
-    parse("<aaabbbb>")
+    parse("")
 except:
     print("rej")
 else:
